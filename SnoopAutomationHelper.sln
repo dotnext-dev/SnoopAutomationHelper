@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxApp", "SandboxApp\SandboxApp.csproj", "{078C8B97-C457-4443-BA7D-AA176627007A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injector", "Injector\Injector.csproj", "{035FFF79-8AA9-4B3E-B541-2352574E8F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptDriver", "ScriptDriver\ScriptDriver.csproj", "{FFC88C19-32DE-4CE7-BCFF-7091D49237DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078C8B97-C457-4443-BA7D-AA176627007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078C8B97-C457-4443-BA7D-AA176627007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078C8B97-C457-4443-BA7D-AA176627007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078C8B97-C457-4443-BA7D-AA176627007A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035FFF79-8AA9-4B3E-B541-2352574E8F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035FFF79-8AA9-4B3E-B541-2352574E8F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035FFF79-8AA9-4B3E-B541-2352574E8F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035FFF79-8AA9-4B3E-B541-2352574E8F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC88C19-32DE-4CE7-BCFF-7091D49237DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC88C19-32DE-4CE7-BCFF-7091D49237DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC88C19-32DE-4CE7-BCFF-7091D49237DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC88C19-32DE-4CE7-BCFF-7091D49237DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
